@@ -1,2 +1,2 @@
-picc.adriano-bocaletti
+Meu repositório Treinamento Android
 ======================
